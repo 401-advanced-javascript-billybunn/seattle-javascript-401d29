@@ -43,13 +43,10 @@
     "schemas": {
       "getAll": {
         "type": "object",
-        "example": {
-          "count": 2,
-          "results": [
-            "{}",
-            "{}"
-          ]
-        }
+        "example": [
+          "{}",
+          "{}"
+        ]
       }
     }
   }
