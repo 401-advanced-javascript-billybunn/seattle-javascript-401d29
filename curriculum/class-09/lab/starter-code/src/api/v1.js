@@ -1,10 +1,5 @@
 'use strict';
 
-/**
- * API Router Module (V1)
- * Integrates with various models through a common Interface (.get(), .post(), .put(), .delete())
- * @module src/api/v1
- */
 
 const cwd = process.cwd();
 
